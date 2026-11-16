@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "load-grunt-tasks": "0.2.0",
-    "requirejs": "2.1.9",
+    "requirejs": "2.3.7",
     "grunt": "*",
     "grunt-contrib-jshint": "0.7.2",
     "grunt-contrib-qunit": "*",
@@ -23,6 +23,6 @@
     "connect-livereload": "*"
   },
   "dependencies": {
-    "open": "0.0.4"
+    "open": "6.0.0"
   }
 }
